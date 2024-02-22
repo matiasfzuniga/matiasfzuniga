@@ -3,7 +3,7 @@
 
 🌱 actualmente aprendiendo **Typescript y Rust**
 <!--👨‍💻 Mi portfolio web es-->
-💬 Ask me about 
+💬 preguntame lo que quieras saber
 📫  como contactarme: **matiaszuniga93@gmail.com**
 
 <h3 align="left">Conectemos:</h3>
