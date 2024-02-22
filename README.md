@@ -1,10 +1,10 @@
 ### Hola 👋 Soy Matias Zuñiga
-### Desarrollador frontend con interés en backend y habilidades de diseño, viviendo en Mendoza - Argentina.
+### Desarrollador frontend con interés en backend y habilidades de diseño.
 
 🌱 actualmente aprendiendo **Typescript y Rust**
 <!--👨‍💻 Mi portfolio web es-->
-💬 preguntame lo que quieras saber
-📫  como contactarme: **matiaszuniga93@gmail.com**
+💬 preguntame lo que quieras saber **
+📫 como contactarme: **matiaszuniga93@gmail.com**
 
 <h3 align="left">Conectemos:</h3>
 <p align="left">
