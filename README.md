@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Soy Matias Zuñiga</h1>
-<h3 align="center">Desarrollador frontend con interés en backend y habilidades de diseño.</h3>
+<h3 align="center">Desarrollador frontend con habilidades de diseño e interés en backend.</h3>
 
 🌱 actualmente aprendiendo **Typescript**
 <!--👨‍💻 Mi portfolio web es-->
